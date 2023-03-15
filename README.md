@@ -2,6 +2,7 @@
 
 ---
 
+
 ## Dados pessoais 
 
 - Altura: 1,82 metros
@@ -11,3 +12,9 @@
 - RG : XXXXXXXXX
 - Celular: 99067-8864
 
+## Experiência 
+
+
+- Agiota
+- Cafetão
+- Estelionatário 
