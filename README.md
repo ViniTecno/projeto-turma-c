@@ -18,5 +18,5 @@
 - Agiota
 - Cafetão
 - Estelionatário 
-- rato de academia
+- EX-rato de academia
 - pro-player cs-go
