@@ -12,9 +12,4 @@
 - RG : XXXXXXXXX
 - Celular: 99067-8864
 
-## Experiência 
 
-
-- Agiota
-- Cafetão
-- Estelionatário 
