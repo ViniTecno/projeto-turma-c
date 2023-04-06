@@ -19,4 +19,5 @@
 - Cafetão
 - Estelionatário 
 - EX-rato de academia
-- pro-player cs-go
+- Ak-Cruzada cs-go
+- Vendedor
